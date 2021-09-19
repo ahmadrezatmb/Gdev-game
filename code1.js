@@ -517,7 +517,7 @@ gdjs.sticker_32pageCode.GDsection_95objObjects2.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.sticker_32pageCode.mapOfGDgdjs_46sticker_9532pageCode_46GDsection_9595objObjects2Objects, 693, 320, "");
 }{for(var i = 0, len = gdjs.sticker_32pageCode.GDsection_95objObjects2.length ;i < len;++i) {
-    gdjs.sticker_32pageCode.GDsection_95objObjects2[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(0).getChild("section").getChild("علوم").getChild(0)));
+    gdjs.sticker_32pageCode.GDsection_95objObjects2[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(0).getChild("section").getChild("علوم").getChild(1)));
 }
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.sticker_32pageCode.mapOfGDgdjs_46sticker_9532pageCode_46GDcourse_9595titleObjects2Objects, 900, 208, "");
 }{for(var i = 0, len = gdjs.sticker_32pageCode.GDcourse_95titleObjects2.length ;i < len;++i) {
@@ -544,7 +544,7 @@ gdjs.sticker_32pageCode.GDsection_95objObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.sticker_32pageCode.mapOfGDgdjs_46sticker_9532pageCode_46GDsection_9595objObjects1Objects, 693, 320, "");
 }{for(var i = 0, len = gdjs.sticker_32pageCode.GDsection_95objObjects1.length ;i < len;++i) {
-    gdjs.sticker_32pageCode.GDsection_95objObjects1[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(0).getChild("section").getChild("ریاضی").getChild(0)));
+    gdjs.sticker_32pageCode.GDsection_95objObjects1[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(0).getChild("section").getChild("ریاضی").getChild(1)));
 }
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.sticker_32pageCode.mapOfGDgdjs_46sticker_9532pageCode_46GDcourse_9595titleObjects1Objects, 900, 208, "");
 }{for(var i = 0, len = gdjs.sticker_32pageCode.GDcourse_95titleObjects1.length ;i < len;++i) {
@@ -624,7 +624,7 @@ gdjs.sticker_32pageCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButt
 }if ( gdjs.sticker_32pageCode.condition1IsTrue_0.val ) {
 {
 {gdjs.sticker_32pageCode.conditionTrue_1 = gdjs.sticker_32pageCode.condition2IsTrue_0;
-gdjs.sticker_32pageCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11058988);
+gdjs.sticker_32pageCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11027492);
 }
 }}
 }
