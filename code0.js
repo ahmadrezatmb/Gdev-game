@@ -497,7 +497,7 @@ gdjs.main_32pageCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariable
 }if (gdjs.main_32pageCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.main_32pageCode.GDcourse_95titleObjects1, gdjs.main_32pageCode.GDcourse_95titleObjects6);
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 680, 240, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 700, 217, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
 }{for(var i = 0, len = gdjs.main_32pageCode.GDcourse_95titleObjects6.length ;i < len;++i) {
     gdjs.main_32pageCode.GDcourse_95titleObjects6[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
@@ -519,7 +519,7 @@ gdjs.main_32pageCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariable
 }if (gdjs.main_32pageCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.main_32pageCode.GDcourse_95titleObjects1, gdjs.main_32pageCode.GDcourse_95titleObjects6);
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 680, 240, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 700, 217, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
 }{for(var i = 0, len = gdjs.main_32pageCode.GDcourse_95titleObjects6.length ;i < len;++i) {
     gdjs.main_32pageCode.GDcourse_95titleObjects6[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
@@ -540,7 +540,7 @@ gdjs.main_32pageCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariable
 }if (gdjs.main_32pageCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.main_32pageCode.GDcourse_95titleObjects1, gdjs.main_32pageCode.GDcourse_95titleObjects6);
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 680, 240, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 700, 217, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
 }{for(var i = 0, len = gdjs.main_32pageCode.GDcourse_95titleObjects6.length ;i < len;++i) {
     gdjs.main_32pageCode.GDcourse_95titleObjects6[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
@@ -561,7 +561,7 @@ gdjs.main_32pageCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariable
 }if (gdjs.main_32pageCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.main_32pageCode.GDcourse_95titleObjects1, gdjs.main_32pageCode.GDcourse_95titleObjects6);
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 680, 240, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 700, 217, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
 }{for(var i = 0, len = gdjs.main_32pageCode.GDcourse_95titleObjects6.length ;i < len;++i) {
     gdjs.main_32pageCode.GDcourse_95titleObjects6[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
@@ -582,7 +582,7 @@ gdjs.main_32pageCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariable
 }if (gdjs.main_32pageCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.main_32pageCode.GDcourse_95titleObjects1, gdjs.main_32pageCode.GDcourse_95titleObjects6);
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 680, 240, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 700, 217, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
 }{for(var i = 0, len = gdjs.main_32pageCode.GDcourse_95titleObjects6.length ;i < len;++i) {
     gdjs.main_32pageCode.GDcourse_95titleObjects6[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
@@ -600,7 +600,7 @@ gdjs.main_32pageCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariable
 }if (gdjs.main_32pageCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.main_32pageCode.GDcourse_95titleObjects1, gdjs.main_32pageCode.GDcourse_95titleObjects6);
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 680, 240, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 700, 217, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
 }{for(var i = 0, len = gdjs.main_32pageCode.GDcourse_95titleObjects6.length ;i < len;++i) {
     gdjs.main_32pageCode.GDcourse_95titleObjects6[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
@@ -618,7 +618,7 @@ gdjs.main_32pageCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariable
 }if (gdjs.main_32pageCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.main_32pageCode.GDcourse_95titleObjects1, gdjs.main_32pageCode.GDcourse_95titleObjects6);
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 680, 240, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects6Objects, 700, 217, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
 }{for(var i = 0, len = gdjs.main_32pageCode.GDcourse_95titleObjects6.length ;i < len;++i) {
     gdjs.main_32pageCode.GDcourse_95titleObjects6[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
@@ -636,7 +636,7 @@ gdjs.main_32pageCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariable
 }if (gdjs.main_32pageCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.main_32pageCode.GDcourse_95titleObjects1, gdjs.main_32pageCode.GDcourse_95titleObjects5);
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects5Objects, 680, 240, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.main_32pageCode.mapOfGDgdjs_46main_9532pageCode_46GDcourse_9595titleObjects5Objects, 700, 217, gdjs.evtTools.common.toString(gdjs.evtTools.variable.getVariableNumber(runtimeScene.getVariables().getFromIndex(4))));
 }{for(var i = 0, len = gdjs.main_32pageCode.GDcourse_95titleObjects5.length ;i < len;++i) {
     gdjs.main_32pageCode.GDcourse_95titleObjects5[i].setString(gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().getFromIndex(2)));
 }
